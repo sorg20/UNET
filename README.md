@@ -3,7 +3,7 @@ My UNET pytorch code for training and Inference for car image segmentation
 ## Network architecture
   - I used original U-Net paper for the basic architecture and slightly modified input size to remove cropping because my data does not touch boundary
   - see original paper [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
-## contenst
+## contents
   - training jupyter notebook use: Train.ipynb
   - inference jupyter notebook use : Inference.ipynb
   - training data 
